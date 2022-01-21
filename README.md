@@ -1,0 +1,1 @@
+RestAssured_beginner_mode
